@@ -64,6 +64,12 @@ const CONFIG = {
                     isActive: true,
                     className: '-plugin',
                 },
+                {
+                    title: 'UI Kits',
+                    href: '/designkits',
+                    isActive: false,
+                    className: '-kit',
+                },
             ],
         },
         welcomeArticle: {
